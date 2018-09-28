@@ -1,15 +1,14 @@
-ÀÌ È¨ÆäÀÌÁö´Â ajax¸¦ »ç¿ëÇÑ È¸¿øÁ¦ ½Ç½Ã°£ Ã¤ÆÃ ¼­ºñ½º¸¦ Á¦°øÇÏ°í °Ô½ÃÆÇ ±â´ÉÀÌ ÀÖ½À´Ï´Ù. Âü°í·Î °³¹ßÀÚ Á¤º¸°¡ ´ã±ä ÆäÀÌÁöµµ Á¸ÀçÇÕ´Ï´Ù
+ì´ í™ˆíŽ˜ì´ì§€ëŠ” ajaxë¥¼ ì‚¬ìš©í•œ íšŒì›ì œ ì‹¤ì‹œê°„ ì±„íŒ… ì„œë¹„ìŠ¤ë¥¼ ì œê³µí•˜ê³  ê²Œì‹œíŒ ê¸°ëŠ¥ì´ ìžˆìŠµë‹ˆë‹¤. ì°¸ê³ ë¡œ ê°œë°œìž ì •ë³´ê°€ ë‹´ê¸´ íŽ˜ì´ì§€ë„ ì¡´ìž¬í•©ë‹ˆë‹¤
 
-°³¹ßÀÎ¿ø : 1¸í
+ê°œë°œì¸ì› : 1ëª…
 
-°³¹ß±â°£ : 15ÀÏ
+ê°œë°œê¸°ê°„ : 15ì¼
 
-¿î¿µÈ¯°æ : Apach Tomcat, MySQL
+ìš´ì˜í™˜ê²½ : Apach Tomcat, MySQL
 
-»ç¿ë±â¼ú : JAVA, servlet,  HTML5, CSS3, Javascript, jQuery, AJAX, json,  JDBC
+ì‚¬ìš©ê¸°ìˆ  : JAVA, servlet,  HTML5, CSS3, Javascript, jQuery, AJAX, json,  JDBC
 
-ÇÁ·¹ÀÓ¿öÅ© :  Bootstrap3
+í”„ë ˆìž„ì›Œí¬ :  Bootstrap3
 
-»ç¿ëÅø : eclipse
+ì‚¬ìš©íˆ´ : eclipse
 
-»ç¿ëAPI : °ø°øµ¥ÀÌÅÍÆ÷ÅÐ»ç¾÷ÀåÁ¤º¸Á¶È¸ API, google & facebook ¼Ò¼È°èÁ¤ ¿¬µ¿ API, NAVER ´º½º API, »ç¶÷ÀÎ Ã¤¿ëÁ¤º¸ API
